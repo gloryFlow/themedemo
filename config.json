@@ -1,0 +1,37 @@
+{
+	 "globalColor": "f4f4ff",
+	 "globalImage": "bg_global",
+     "navigation": {
+         "backgroundColor": "3b77ff",
+         "backgroundImage": "",
+     },
+	 "tabbar":  {
+	 	"backgroundColor": "fff9f9",
+        "backgroundImage": "",
+        "showLine": "0",
+        "lineColor": "",
+        "tabbars": [
+             {
+             "title" : "脸脸",
+             "titleColor" : "606060",
+             "selectedTitleColor" : "ffffff",
+             "icon" : "tabbar_home",
+             "selectedIcon" : "tabbar_home_selected",
+             },
+            {
+            "title" : "搜索",
+            "titleColor" : "606060",
+            "selectedTitleColor" : "ffffff",
+            "icon" : "tabbar_discover",
+            "selectedIcon" : "tabbar_discover_selected",
+            },
+            {
+            "title" : "我的",
+            "titleColor" : "606060",
+            "selectedTitleColor" : "ffffff",
+            "icon" : "tabbar_profile",
+            "selectedIcon" : "tabbar_profile_selected",
+            },
+       ]
+  	},
+}
