@@ -5,6 +5,7 @@
          "backgroundColor": "fd5051",
          "backgroundImage": "",
          "btnTitleColor": "ffffff",
+        	 "navTitleColor": "ffffff",
          "btnImageColor": "ffffff"
      },
 	 "tabbar":  {
