@@ -1,9 +1,11 @@
 {
-	 "globalColor": "ffd44c",
+	 "globalColor": "f1f2f9",
 	 "globalImage": "bg_global",
      "navigation": {
          "backgroundColor": "fd5051",
          "backgroundImage": "",
+         "btnTitleColor": "ffffff",
+         "btnImageColor": "ffffff"
      },
 	 "tabbar":  {
 	 	"backgroundColor": "dc2d30",
