@@ -4,13 +4,15 @@
      "navigation": {
          "backgroundColor": "fd5051",
          "backgroundImage": "",
-         "navBtnColor": "ffffff",
      },
 	 "tabbar":  {
 	 	"backgroundColor": "dc2d30",
         "backgroundImage": "",
         "showLine": "0",
         "lineColor": "",
+        "dotColor": "3b93ff",
+        "badgeBgColor": "3b93ff",
+        "badgeTextColor": "ffffff",
         "lianlian": {
              "title" : "脸脸",
              "titleColor" : "ffffff",
