@@ -6,7 +6,9 @@
          "backgroundImage": "",
          "btnTitleColor": "ffffff",
         	 "navTitleColor": "ffffff",
-         "btnImageColor": "ffffff"
+         "btnImageColor": "ffffff",
+         "showLine": "0",
+        	 "lineColor": ""
      },
 	 "tabbar":  {
 	 	"backgroundColor": "dc2d30",
