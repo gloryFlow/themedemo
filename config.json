@@ -15,9 +15,9 @@
         "backgroundImage": "",
         "showLine": "0",
         "lineColor": "",
-        "dotColor": "3b93ff",
-        "badgeBgColor": "3b93ff",
-        "badgeTextColor": "ffffff",
+        "dotColor": "",
+        "badgeBgColor": "",
+        "badgeTextColor": "",
         "lianlian": {
              "title" : "脸脸",
              "titleColor" : "777777",
