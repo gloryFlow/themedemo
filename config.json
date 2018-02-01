@@ -43,8 +43,8 @@
              "title" : "商家",
              "titleColor" : "ffffff",
              "selectedTitleColor" : "ffd44c",
-             "icon" : "tabbar_home",
-             "selectedIcon" : "tabbar_home_selected",
+             "icon" : "",
+             "selectedIcon" : "",
         },
         "mine": {
              "title" : "我的",
