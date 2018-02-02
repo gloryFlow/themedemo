@@ -5,7 +5,6 @@
          "backgroundColor": "fd5051",
          "backgroundImage": "",
          "btnTitleColor": "ffffff",
-        	 "navTitleColor": "ffffff",
          "btnImageColor": "ffffff",
          "showLine": "0",
         	 "lineColor": ""
@@ -21,35 +20,35 @@
         "lianlian": {
              "title" : "脸脸",
              "titleColor" : "777777",
-             "selectedTitleColor" : "ff2741",
+             "selectedTitleColor" : "ec1b23",
              "icon" : "ic_dface",
              "selectedIcon" : "ic_dface_selected",
         },
         "guangguang": {
              "title" : "逛逛",
              "titleColor" : "777777",
-             "selectedTitleColor" : "ff2741",
+             "selectedTitleColor" : "ec1b23",
              "icon" : "ic_guangguang_normal",
              "selectedIcon" : "ic_guangguang_selected",
         },
         "message": {
              "title" : "消息",
              "titleColor" : "777777",
-             "selectedTitleColor" : "ff2741",
+             "selectedTitleColor" : "ec1b23",
              "icon" : "ic_message",
              "selectedIcon" : "ic_message_selected",
         },
         "shop": {
              "title" : "商家",
              "titleColor" : "777777",
-             "selectedTitleColor" : "ff2741",
+             "selectedTitleColor" : "ec1b23",
              "icon" : "",
              "selectedIcon" : "",
         },
         "mine": {
              "title" : "我的",
              "titleColor" : "777777",
-             "selectedTitleColor" : "ff2741",
+             "selectedTitleColor" : "ec1b23",
              "icon" : "ic_explorer",
              "selectedIcon" : "ic_explorer_selected",
         }
