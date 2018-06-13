@@ -42,8 +42,8 @@
              "title" : "商家",
              "titleColor" : "777777",
              "selectedTitleColor" : "ec1b23",
-             "icon" : "",
-             "selectedIcon" : "",
+             "icon" : "ic_tab_shop",
+             "selectedIcon" : "ic_tab_shop_selected",
         },
         "mine": {
              "title" : "我的",
