@@ -1,6 +1,9 @@
 {
 	 "globalColor": "",
 	 "globalImage": "",
+     "curVersion": "2019.08.07",
+     "curDownloadurl": "https://github.com/gloryFlow/themedemo/archive/master.zip",
+     "templateName": "article.html",
      "navigation": {
          "backgroundColor": "",
          "backgroundImage": "",
