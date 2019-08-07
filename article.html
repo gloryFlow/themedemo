@@ -5,35 +5,29 @@
         <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <style type="text/css">
-            body{
-                background: #f5faff;
-            }
-        .button{
-            width: 100%;
-            line-height: 38px;
-            text-align: center;
-            font-weight: bold;
-            color: #fff;
-            text-shadow:1px 1px 1px #333;
-            margin:0 auto;
-        }
-        .button:nth-child(6n){
-            margin-right: 0;
-        }
-        .button.gray{
-            color: #8c96a0;
-            text-shadow:1px 1px 1px #fff;
-            border:1px solid #dce1e6;
-            box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
-            background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
-            background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
-            background: linear-gradient(top,#f2f3f7,#e4e8ec);
+        body{
+            background: #ffffff;
         }
         </style>
     </head>
     <body>
-        <h3>{{ name }}</h3>
-        <p>{{ content }}</p>
-        <p>{{ imgUrl }}</p>
+        <h1>{{header}}</h1>
+        {{#bug}}
+        {{/bug}}
+
+        {{#items}}
+          {{#first}}
+            <li><strong>{{name}}</strong></li>
+          {{/first}}
+          {{#link}}
+            <li><a href="{{url}}">{{name}}</a></li>
+          {{/link}}
+        {{/items}}
+
+        {{#empty}}
+          <p>The list is empty.</p>
+        {{/empty}}
+
+        <img src="{{/link}}" />
     </body>
 </html>
