@@ -11,23 +11,11 @@
         </style>
     </head>
     <body>
-        <h1>{{header}}</h1>
-        {{#bug}}
-        {{/bug}}
-
-        {{#items}}
-          {{#first}}
-            <li><strong>{{name}}</strong></li>
-          {{/first}}
-          {{#link}}
-            <li><a href="{{url}}">{{name}}</a></li>
-          {{/link}}
-        {{/items}}
-
-        {{#empty}}
-          <p>The list is empty.</p>
-        {{/empty}}
-
-        <img src="{{/link}}" />
+        <h3>{{ name }}</h3>
+        <p>{{ content }}</p>
+        <p>{{ imgUrl }}</p>
+        {{#images}}
+          <img src="{{ imgUrl }}" />
+        {{/images}}
     </body>
 </html>
