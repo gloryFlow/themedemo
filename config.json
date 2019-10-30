@@ -55,5 +55,11 @@
              "icon" : "ic_explorer",
              "selectedIcon" : "ic_explorer_selected",
         }
-  	}
+  	},
+    "cdnResources":[
+        "a.css",
+        "b.jpg",
+        "c.png",
+        "d.js"
+    ]
 }
